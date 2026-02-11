@@ -3,7 +3,7 @@
 A simple Java-based Library Management System built using Servlets, JDBC, and Oracle Database.
 This application allows an administrator to add and search books stored in a database.
 
- Features
+ **Features**
 
 *  Add new books
 *  Search book by ISBN
@@ -12,7 +12,7 @@ This application allows an administrator to add and search books stored in a dat
 *  MVC Architecture (Servlet → Service → DAO → DB)
 *  Oracle Database integration using JDBC
 
- Technologies Used
+ **Technologies Used**
 
 * Java (JDK 8+)
 * Servlets & JSP
@@ -22,7 +22,7 @@ This application allows an administrator to add and search books stored in a dat
 * HTML
 
 
-Project Architecture
+**Project Architecture**
 
 Client (HTML Form)
         ↓
