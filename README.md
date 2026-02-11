@@ -22,9 +22,9 @@ This application allows an administrator to add and search books stored in a dat
 * HTML
 
 
-## Project Architecture
+**Project Architecture**
 
-
+```
 Client (HTML Form)
         ↓
 MainServlet
@@ -34,6 +34,8 @@ Service Layer (Administrator)
 DAO Layer (BookDAO / AuthorDAO)
         ↓
 Oracle Database
+```
+
 
 
 
