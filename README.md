@@ -37,7 +37,8 @@ Oracle Database
 ![WhatsApp Image 2026-02-11 at 11 24 58 AM](https://github.com/user-attachments/assets/3d7378f0-9f1d-48dc-be1f-c287a266e474)
 
 
-![WhatsApp Image 2026-02-11 at 11 25 37 AM](https://github.com/user-attachments/assets/3abb528d-1388-4be6-91f0-101322d4e2c1)
+<img width="831" height="521" alt="image" src="https://github.com/user-attachments/assets/73ba987b-270e-4f8f-945a-1cf11a4411f0" />
+
 
 
 ![WhatsApp Image 2026-02-11 at 11 26 01 AM](https://github.com/user-attachments/assets/2665a755-cbd1-4c26-beca-5fef962c334a)
