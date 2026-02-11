@@ -35,7 +35,17 @@ DAO Layer (BookDAO / AuthorDAO)
 Oracle Database
 
 ![WhatsApp Image 2026-02-11 at 11 24 58 AM](https://github.com/user-attachments/assets/3d7378f0-9f1d-48dc-be1f-c287a266e474)
+
 ![WhatsApp Image 2026-02-11 at 11 25 37 AM](https://github.com/user-attachments/assets/3abb528d-1388-4be6-91f0-101322d4e2c1)
+
+![WhatsApp Image 2026-02-11 at 11 26 01 AM](https://github.com/user-attachments/assets/2665a755-cbd1-4c26-beca-5fef962c334a)
+
+![WhatsApp Image 2026-02-11 at 11 26 16 AM](https://github.com/user-attachments/assets/8fc334c6-031c-4c12-8c3b-07076ef28545)
+
+![WhatsApp Image 2026-02-11 at 11 27 36 AM](https://github.com/user-attachments/assets/fe55cddd-8776-4bc9-b266-10fa4fa29db6)
+
+
+
 
 
 
