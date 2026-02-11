@@ -1,4 +1,4 @@
-Library Management System
+**Library Management System**
 
 A simple Java-based Library Management System built using Servlets, JDBC, and Oracle Database.
 This application allows an administrator to add and search books stored in a database.
