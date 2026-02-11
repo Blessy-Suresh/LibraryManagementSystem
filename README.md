@@ -34,6 +34,8 @@ DAO Layer (BookDAO / AuthorDAO)
         ↓
 Oracle Database
 
+![WhatsApp Image 2026-02-11 at 11 24 58 AM](https://github.com/user-attachments/assets/3d7378f0-9f1d-48dc-be1f-c287a266e474)
+
 
 
 
